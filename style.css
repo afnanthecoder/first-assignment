@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/* header section start from here  */
+.menu-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+   background-color: pink;
+}
+.list-items> li{
+    list-style: none;
+    display: inline-flex;
+    padding: 10px;
+    justify-content: space-between;
+    margin-top: 10px;
+    align-items: center;
+    font-size: 20px;
+
+}
+
+
+.item{
+    margin: 10px;
+    padding: 5px;
+    font-size: larger;
+    cursor: pointer;
+}
+.item:hover{
+    color: blue;
+}
+.logo-picture{
+    width: 200px;
+}
