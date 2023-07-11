@@ -181,6 +181,10 @@ margin: 40px;
     color: red;
 }
 /* new arrival section style start from here  */
+.arrival-container{
+    margin: 20px;
+    padding: 20px;
+}
 #arrival{
     color: #3d0000;
     align-items: center;
@@ -193,15 +197,76 @@ margin: 40px;
     padding: 15px;
     /* display: block;  */
 }
-.number1-img{
+.numberx-img{
    width: 300px; 
 }
-.number2-img{
-   width: 300px; 
+
+/* best deals section style start from here  */
+
+.title-primary{
+    align-items: center;
+    text-align: center;
+    padding: 50px;
+    
 }
-.number3-img{
-   width: 300px; 
+
+.full-deals{
+    background-size: cover;
+    margin: 20px;
+    border: 8px;
+    align-items: center;
+    justify-content: center;
+    display: block;
+    font-size: 25px;
+    font-weight: 800;
+    background-image: url("./Rectangle\ 9.png");
+    background-repeat: no-repeat;
+    height: 450px;
+
 }
-.number4-img{
-   width: 300px; 
+
+.form-btn{
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+}
+
+#subs{
+    width: 150px;
+    height: 64px;
+    color: rgb(255, 255, 255);
+    border-radius: none;
+    background-color: rgb(255, 80, 109);
+}
+.mail-form{
+    width: 700px;
+    height: 64px;
+    border: 8px;
+    background-color: beige;
+    padding: 10px;
+    border-radius: 5px;
+}
+/* footer section start from here  */
+.footer-heading{
+    padding: 70px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 1922px;
+    height: 449px;
+    background-color: black;
+}
+.name{
+    color: #ffe600;
+    font-style: italic;
+}
+.title-1{
+    color: pink;
+    font-style: oblique;
+}
+#footerr{
+    color: antiquewhite;
+}
+.reserved{
+    color: #747d8c;
 }
