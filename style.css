@@ -47,7 +47,7 @@
 }
 .first-title{
     font-weight: 800;
-    font-size: 35px;
+    font-size: 50px;
 }
 .banner-title{
     padding: 15px;
@@ -55,12 +55,12 @@
     align-items: center;
     color: white;
 }
-/* .description{ 
-    font-size: 20px;
+ .description{ 
+    font-size: 30px;
     padding: 10px;
-    color:#3d0000;
+    color:#ffffff;
     font-weight: 500px;
- } */
+ } 
 .sep-text{
     color: #fff200;
 }
@@ -175,8 +175,8 @@ padding: 30px;
 background-color: rgb(255, 94, 174);
 margin: 40px;
 }
-.primary-title{
-    color: #ffdfdf;
+#disc{
+    font-size: 22px;
 }
 .off{
     color: red;
