@@ -33,3 +33,55 @@
 .logo-picture{
     width: 200px;
 }
+
+/* banner section styles start from here  */
+
+.banner-container{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(236, 124, 180);
+    align-items: center;
+    padding: 10px 20px;
+    height: 100vh;
+    
+}
+.first-title{
+    font-weight: 800;
+    font-size: 35px;
+}
+.banner-title{
+    padding: 15px;
+    font-size: 45px;
+    align-items: center;
+}
+.description{
+    font-size: 20px;
+    padding: 10px;
+    color:#3d0000;
+    font-weight: 500px;
+}
+.sep-text{
+    color: #fff200;
+}
+.btn-primary{
+    cursor: pointer;
+    font-weight: bolder;
+    font-size: large;
+    padding: 10px 20px;
+    
+    border-radius: 10px;
+    background-color:rgb(255, 217, 0)
+    
+}
+.banner-img{
+    width: 50%;
+    display: block;
+   
+    
+}
+/* our feature sections style start from here  */
+.feature-container{
+align-items: center;
+text-align: center;
+padding: 30px;
+}
